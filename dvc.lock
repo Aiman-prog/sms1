@@ -5,7 +5,7 @@ stages:
     deps:
     - path: src/get_data.py
       hash: md5
-      md5: f6381e5a4a3ffaaabee5070bdc5c60a9
+      md5: 7b504e6e8a26063c94aa9ce59c4bcd8b
       size: 421
     outs:
     - path: smsspamcollection
